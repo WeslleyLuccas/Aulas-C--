@@ -1,0 +1,7 @@
+E:\inf23\aula 25.03\aula 25.03\bin\Debug\aula 25.03.exe.config
+E:\inf23\aula 25.03\aula 25.03\bin\Debug\aula 25.03.exe
+E:\inf23\aula 25.03\aula 25.03\bin\Debug\aula 25.03.pdb
+E:\inf23\aula 25.03\aula 25.03\obj\Debug\aula 25.03.csproj.AssemblyReference.cache
+E:\inf23\aula 25.03\aula 25.03\obj\Debug\aula 25.03.csproj.CoreCompileInputs.cache
+E:\inf23\aula 25.03\aula 25.03\obj\Debug\aula 25.03.exe
+E:\inf23\aula 25.03\aula 25.03\obj\Debug\aula 25.03.pdb

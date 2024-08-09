@@ -1,0 +1,7 @@
+E:\inf23\18.03 lista\18.03 lista\bin\Debug\18.03 lista.exe.config
+E:\inf23\18.03 lista\18.03 lista\bin\Debug\18.03 lista.exe
+E:\inf23\18.03 lista\18.03 lista\bin\Debug\18.03 lista.pdb
+E:\inf23\18.03 lista\18.03 lista\obj\Debug\18.03 lista.csproj.AssemblyReference.cache
+E:\inf23\18.03 lista\18.03 lista\obj\Debug\18.03 lista.csproj.CoreCompileInputs.cache
+E:\inf23\18.03 lista\18.03 lista\obj\Debug\18.03 lista.exe
+E:\inf23\18.03 lista\18.03 lista\obj\Debug\18.03 lista.pdb

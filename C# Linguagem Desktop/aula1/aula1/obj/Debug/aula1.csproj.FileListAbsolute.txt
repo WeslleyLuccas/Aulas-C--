@@ -1,0 +1,7 @@
+E:\inf23\C#\aula1\aula1\bin\Debug\aula1.exe.config
+E:\inf23\C#\aula1\aula1\bin\Debug\aula1.exe
+E:\inf23\C#\aula1\aula1\bin\Debug\aula1.pdb
+E:\inf23\C#\aula1\aula1\obj\Debug\aula1.csproj.AssemblyReference.cache
+E:\inf23\C#\aula1\aula1\obj\Debug\aula1.csproj.CoreCompileInputs.cache
+E:\inf23\C#\aula1\aula1\obj\Debug\aula1.exe
+E:\inf23\C#\aula1\aula1\obj\Debug\aula1.pdb

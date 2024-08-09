@@ -1,0 +1,7 @@
+E:\inf23\C#\Lista de Exercicio\Lista de Exercicio\bin\Debug\Lista de Exercicio.exe.config
+E:\inf23\C#\Lista de Exercicio\Lista de Exercicio\bin\Debug\Lista de Exercicio.exe
+E:\inf23\C#\Lista de Exercicio\Lista de Exercicio\bin\Debug\Lista de Exercicio.pdb
+E:\inf23\C#\Lista de Exercicio\Lista de Exercicio\obj\Debug\Lista de Exercicio.csproj.AssemblyReference.cache
+E:\inf23\C#\Lista de Exercicio\Lista de Exercicio\obj\Debug\Lista de Exercicio.csproj.CoreCompileInputs.cache
+E:\inf23\C#\Lista de Exercicio\Lista de Exercicio\obj\Debug\Lista de Exercicio.exe
+E:\inf23\C#\Lista de Exercicio\Lista de Exercicio\obj\Debug\Lista de Exercicio.pdb
